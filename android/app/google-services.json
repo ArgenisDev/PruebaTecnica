@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1037365148459",
+    "project_id": "prueba-tecnica-e5a3b",
+    "storage_bucket": "prueba-tecnica-e5a3b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1037365148459:android:fa97f457ea80c13187e36e",
+        "android_client_info": {
+          "package_name": "com.pruebatecnica"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeAF0vlc2v2WhDDCLZBuccXjRFDKEbqXc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
